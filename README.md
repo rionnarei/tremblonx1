@@ -53,6 +53,11 @@
         <img src="./img/apple-tile.svg" width="48" height="48" alt="MacOS" />
       </a>
       <br>MacOS
+     <td align="center" width="96">
+      <a href="#tremblonx1-tech" >
+        <img src="./img/pocoo_flask-icon.svg" width="48" height="48" alt="Flask" />
+      </a>
+      <br>Flask
   </tr>
   <tr>
     <td align="center" width="96"> 
