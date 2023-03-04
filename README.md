@@ -19,12 +19,12 @@
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: Fullstack Developer, always exploring newer avenues
-- :hourglass_flowing_sand: 
+- :computer: Fullstack Developer, always looking out for synergetic tech stacks
+- :hourglass_flowing_sand: Taking my time to figure out SRE concepts
 - :rocket: 
 - :man_technologist: 
 - :dart: 
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- :zap: Fun fact:<br>
   
 <h2 align="left" id="tremblonx1-tech">Favorite Tech</h2>
 
