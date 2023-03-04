@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="left" id="macropower-title">:wave: Hey Everyone! I'm Rohan Bamania</h1>
+<h3 align="left">I am a SW, learning new toolsets and building exciting projects </h3>
 
-<!--
-**tremblonx1/tremblonx1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://github.com/tremblonx1/tremblonx1">
+  </a>
+  <a href="https://reddit.com/u/macropower">
+    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/macropower?label=karma&logo=reddit">
+  </a>
+  <a href="https://github.com/tremblonx1?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/tremblonx1?color=green&logo=github">
+  </a>
+  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
