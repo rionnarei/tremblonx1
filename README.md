@@ -15,5 +15,5 @@
   </a>
   
 <a href="title">
-  <img src="https://raw.githubusercontent.com/Mtremblonx1/github-stats-transparent/output/generated/overview.svg" alt="mtremblonx1" align="right" />
+  <img src="https://raw.githubusercontent.com/Mtremblonx1/github-stats-transparent/output/generated/overview.svg" alt="tremblonx1" align="right" />
 </a>
