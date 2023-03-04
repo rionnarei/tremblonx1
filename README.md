@@ -14,7 +14,7 @@
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
    <a href="https://www.linkedin.com/in/tremblonx1/">
-    <img alt="LinkedIn" src="./img/linkedin-icon.svg" width="35px" height="25px">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-tremblonx1-blue?style=flat-square&logo=Linkedin&logoColor=white/">
   </a>
   
 <h2 align="left" id="tremblonx1-tech">Favorite Tech</h2>
