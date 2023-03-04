@@ -21,10 +21,9 @@
 
 - :computer: Fullstack Developer, always looking out for synergetic tech stacks
 - :hourglass_flowing_sand: Taking my time to figure out SRE concepts
-- :rocket: 
-- :man_technologist: 
-- :dart: 
-- :zap: Fun fact:<br>
+- :man_technologist: Looking for more open source development tips
+- 📖: Writing a fictional novel in my spare time
+
   
 <h2 align="left" id="tremblonx1-tech">Favorite Tech</h2>
 
