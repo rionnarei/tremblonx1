@@ -1,4 +1,4 @@
-<h1 align="left" id="macropower-title">:wave: Hey Everyone! I'm Rohan Bamania</h1>
+<h1 align="left" id="tremblonx1-title">:wave: Hey Everyone! I'm Rohan Bamania</h1>
 <h3 align="left">I am a SWE, learning new toolsets and building exciting projects </h3>
 
 <p align="left">
@@ -45,12 +45,6 @@
       </a>
       <br>React
     </td>
-    <td align="center" width="96">
-      <a href="#tremblonx1-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
-      </a>
-      <br>Sass
-    </td>
   </tr>
   <tr>
     <td align="center" width="96"> 
@@ -64,13 +58,6 @@
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <a href="#tremblonx1-tech">
-        <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
-    </td>
     
   </tr>
 </table>
