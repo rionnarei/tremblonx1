@@ -13,3 +13,7 @@
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
+  
+<a href="#tremblonx1-title">
+  <img src="https://raw.githubusercontent.com/Mtremblonx1/github-stats-transparent/output/generated/overview.svg" alt="mtremblonx1" align="right" />
+</a>
