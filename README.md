@@ -58,6 +58,11 @@
         <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
+    <td align="center" width="96">
+      <a href="#tremblonx1-tech" >
+        <img src="./img/pytorch.svg" width="48" height="48" alt="PyTorch" />
+      </a>
+      <br>PyTorch
     
   </tr>
 </table>
