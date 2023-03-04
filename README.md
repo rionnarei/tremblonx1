@@ -63,6 +63,26 @@
         <img src="./img/pytorch-icon.svg" width="48" height="48" alt="PyTorch" />
       </a>
       <br>PyTorch
+    <td align="center" width="96">
+      <a href="#tremblonx1-tech" >
+        <img src="./img/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
+      </a>
+      <br>MongoDB
+    <td align="center" width="96">
+      <a href="#tremblonx1-tech" >
+        <img src="./img/visualstudio_code-icon.svg" width="48" height="48" alt="VSCode" />
+      </a>
+      <br>VSCode
+     <td align="center" width="96">
+      <a href="#tremblonx1-tech" >
+        <img src="./img/rust.svg" width="48" height="48" alt="Rust" />
+      </a>
+      <br>Rust
+     <td align="center" width="96">
+      <a href="#tremblonx1-tech" >
+        <img src="./img/macos.svg" width="48" height="48" alt="MacOS" />
+      </a>
+      <br>MacOS
     
   </tr>
 </table>
