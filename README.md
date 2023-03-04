@@ -15,3 +15,5 @@
   </a>
   
 <h2 align="left" id="tremblonx1-tech">Favorite Tech</h2>
+
+> Tools, languages, and other things that I like to work with.
