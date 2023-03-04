@@ -13,6 +13,9 @@
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
+   <a href="https://www.linkedin.com/in/tremblonx1/">
+    <img alt="LinkedIn" src="https://img.shields.io/github/followers/tremblonx1?color=green&logo=github">
+  </a>
   
 <h2 align="left" id="tremblonx1-tech">Favorite Tech</h2>
 
