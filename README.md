@@ -60,7 +60,7 @@
       <br>Kubernetes
     <td align="center" width="96">
       <a href="#tremblonx1-tech" >
-        <img src="./img/pytorch.svg" width="48" height="48" alt="PyTorch" color = "#EE4C2C" />
+        <img src="./img/pytorch.svg" width="48" height="48" alt="PyTorch" fill = "#EE4C2C" />
       </a>
       <br>PyTorch
     
