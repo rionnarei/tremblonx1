@@ -17,6 +17,15 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/-tremblonx1-blue?style=flat-square&logo=Linkedin&logoColor=white/">
   </a>
   
+<h2 align="left">👨🏻‍💻 About Me:</h2>
+
+- :computer: Fullstack Developer, always exploring newer avenues
+- :hourglass_flowing_sand: 
+- :rocket: 
+- :man_technologist: 
+- :dart: 
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+  
 <h2 align="left" id="tremblonx1-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
