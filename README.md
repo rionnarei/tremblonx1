@@ -1,4 +1,4 @@
-<h1 align="left" id="tremblonx1-title">:wave: Hey Everyone! I'm Rohan Bamania</h1>
+<h1 align="left" id="tremblonx1-title">:wave: Hey Everyone! I'm Rionna Bamania</h1>
 <h3 align="left">I am a SWE, learning new toolsets and building exciting projects </h3>
 
 <p align="left">
@@ -16,8 +16,8 @@
   
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: Fullstack Developer, always looking out for synergetic tech stacks
-- :hourglass_flowing_sand: Taking my time to figure out SRE concepts
+- :computer: SWE, always looking out for synergetic tech stacks
+- :hourglass_flowing_sand: Taking my time to figure out GPU concepts
 - :man_technologist: Looking for more open source development tips
 - 📖: Writing a fictional novel in my spare time
 
@@ -57,35 +57,9 @@
       <a href="#tremblonx1-tech" >
         <img src="./img/apple-tile.svg" width="48" height="48" alt="MacOS" />
       </a>
-      <br>MacOS
-     <td align="center" width="96">
-      <a href="#tremblonx1-tech" >
-        <img src="./img/pocoo_flask-icon.svg" width="48" height="48" alt="Flask" />
-      </a>
-      <br>Flask
+      <br>Swift/Metal
   </tr>
   <tr>
-    <td align="center" width="96"> 
-      <a href="#tremblonx1-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#tremblonx1-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
-    <td align="center" width="96">
-      <a href="#tremblonx1-tech" >
-        <img src="./img/pytorch-icon.svg" width="48" height="48" alt="PyTorch" />
-      </a>
-      <br>PyTorch
-    <td align="center" width="96">
-      <a href="#tremblonx1-tech" >
-        <img src="./img/mongodb-icon.svg" width="48" height="48" alt="MongoDB" />
-      </a>
-      <br>MongoDB
     <td align="center" width="96">
       <a href="#tremblonx1-tech" >
         <img src="./img/visualstudio_code-icon.svg" width="48" height="48" alt="VSCode" />
@@ -93,9 +67,9 @@
       <br>VSCode
      <td align="center" width="96">
       <a href="#tremblonx1-tech" >
-        <img src="./img/rust.svg" width="48" height="48" alt="Rust" />
+        <img src="./img/c-plus-plus-14368.svg" width="48" height="48" alt="Rust" />
       </a>
-      <br>Rust
+      <br>C++
     
   </tr>
 </table>
